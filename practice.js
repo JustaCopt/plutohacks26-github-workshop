@@ -1,4 +1,6 @@
-// PlutoHacks Copilot warm-up
-// Type the comments from the README (step 4) below this line, press Enter,
-// then press Tab to accept Copilot's gray suggestion.
+// function that takes an end date and returns the days, hours, minutes and seconds left until then
+// format that result as a string like "2d 5h 12m 3s"
 
+function getTimeRemaining(endDate) {
+    const total
+}
